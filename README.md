@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I`m Lazizbek Isaqov and I Frontend developer
 <!--
 **Lazizbek010/Lazizbek010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
